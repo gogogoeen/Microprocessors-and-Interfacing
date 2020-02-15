@@ -1,0 +1,2 @@
+
+D:\Australia\UNSW\Microprocessors and Interfacing\lab_board_information\lab_board_information\programmer\programmer>"c:\Program Files\Arduino\hardware\tools\avr\bin\avrdude.exe" -C "c:\Program Files\Arduino\hardware\tools\avr\etc\avrdude.conf" -c wiring -p m2560 -P  -b 115200 -U flash:w::i -D 

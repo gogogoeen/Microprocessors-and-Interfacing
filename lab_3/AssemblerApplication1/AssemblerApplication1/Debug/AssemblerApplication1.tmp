@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\AssemblerApplication1\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\AssemblerApplication1\AssemblerApplication1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\AssemblerApplication1\AssemblerApplication1\Debug\AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>125</LINE></RESET>
+  <main><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>176</LINE></main>
+  <colloop><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>180</LINE></colloop>
+  <delay><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>185</LINE></delay>
+  <nextcol><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>205</LINE></nextcol>
+  <rowloop><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>196</LINE></rowloop>
+  <convert><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>210</LINE></convert>
+  <letters><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>230</LINE></letters>
+  <symbols><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>238</LINE></symbols>
+  <ovr><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>235</LINE></ovr>
+  <convert_end><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>263</LINE></convert_end>
+  <overflow><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>280</LINE></overflow>
+  <star><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>250</LINE></star>
+  <zero><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>255</LINE></zero>
+  <pressloop><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>269</LINE></pressloop>
+  <end><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>360</LINE></end>
+ </LABELS>
+</ASSEMBLER_INFO>

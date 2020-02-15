@@ -1,0 +1,55 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\Debug\lab3_1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab3_1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab3_1.map</FILE>
+  <FILE>lab3_1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>93</LINE></RESET>
+  <lcd_command><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>230</LINE></lcd_command>
+  <lcd_wait><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>260</LINE></lcd_wait>
+  <sleep_5ms><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>298</LINE></sleep_5ms>
+  <sleep_1ms><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>286</LINE></sleep_1ms>
+  <main><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>134</LINE></main>
+  <colloop><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>137</LINE></colloop>
+  <delay><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>142</LINE></delay>
+  <nextcol><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>163</LINE></nextcol>
+  <rowloop><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>153</LINE></rowloop>
+  <convert><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>168</LINE></convert>
+  <letters><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>188</LINE></letters>
+  <symbols><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>194</LINE></symbols>
+  <ovr><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>192</LINE></ovr>
+  <convert_end><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>220</LINE></convert_end>
+  <overflow><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>307</LINE></overflow>
+  <star><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>206</LINE></star>
+  <zero><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>211</LINE></zero>
+  <result><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>338</LINE></result>
+  <lcd_data><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>243</LINE></lcd_data>
+  <lcd_wait_loop><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>266</LINE></lcd_wait_loop>
+  <delayloop_1ms><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>291</LINE></delayloop_1ms>
+  <end><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>397</LINE></end>
+  <hundredcount><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>349</LINE></hundredcount>
+  <tencount><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>357</LINE></tencount>
+  <onecount><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>366</LINE></onecount>
+  <hundredprint><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>375</LINE></hundredprint>
+  <tenprint><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>385</LINE></tenprint>
+  <print><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_3\lab3_1\lab3_1\main.asm</FILE><LINE>393</LINE></print>
+ </LABELS>
+</ASSEMBLER_INFO>

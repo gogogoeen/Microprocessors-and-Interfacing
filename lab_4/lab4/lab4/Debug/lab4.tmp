@@ -1,0 +1,48 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\Debug\lab4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab4.map</FILE>
+  <FILE>lab4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</FILE><LINE>50</LINE></RESET>
+  <EXT_INT0><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</FILE><LINE>89</LINE></EXT_INT0>
+  <lcd_command><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</FILE><LINE>166</LINE></lcd_command>
+  <lcd_wait><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</FILE><LINE>196</LINE></lcd_wait>
+  <sleep_5ms><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</FILE><LINE>234</LINE></sleep_5ms>
+  <sleep_1ms><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</FILE><LINE>222</LINE></sleep_1ms>
+  <main><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</FILE><LINE>127</LINE></main>
+  <inc_count><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</FILE><LINE>107</LINE></inc_count>
+  <inc_units><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</FILE><LINE>111</LINE></inc_units>
+  <inc_tens><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</FILE><LINE>115</LINE></inc_tens>
+  <inc_hundreds><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</FILE><LINE>119</LINE></inc_hundreds>
+  <end_int><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</FILE><LINE>123</LINE></end_int>
+  <sleep_1s><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</FILE><LINE>267</LINE></sleep_1s>
+  <display_hundreds><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</FILE><LINE>138</LINE></display_hundreds>
+  <display_tens><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</FILE><LINE>142</LINE></display_tens>
+  <display_units><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</FILE><LINE>146</LINE></display_units>
+  <lcd_data><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</FILE><LINE>179</LINE></lcd_data>
+  <lcd_wait_loop><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</FILE><LINE>202</LINE></lcd_wait_loop>
+  <delayloop_1ms><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</FILE><LINE>227</LINE></delayloop_1ms>
+  <sleep_25ms><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</FILE><LINE>241</LINE></sleep_25ms>
+  <sleep_100ms><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</FILE><LINE>250</LINE></sleep_100ms>
+  <sleep_500ms><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\lab_4\lab4\lab4\main.asm</FILE><LINE>258</LINE></sleep_500ms>
+ </LABELS>
+</ASSEMBLER_INFO>

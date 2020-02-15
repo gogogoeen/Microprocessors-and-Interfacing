@@ -1,0 +1,67 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\Debug\project_try.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>project_try.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>project_try.map</FILE>
+  <FILE>project_try.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>102</LINE></RESET>
+  <EXT_INT0><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>191</LINE></EXT_INT0>
+  <lcd_command><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>458</LINE></lcd_command>
+  <lcd_wait><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>488</LINE></lcd_wait>
+  <sleep_5ms><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>526</LINE></sleep_5ms>
+  <sleep_1ms><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>514</LINE></sleep_1ms>
+  <lcd_data><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>471</LINE></lcd_data>
+  <main><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>225</LINE></main>
+  <sleep_400ms><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>550</LINE></sleep_400ms>
+  <no_local><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>238</LINE></no_local>
+  <colloop><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>243</LINE></colloop>
+  <scanfinish><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>249</LINE></scanfinish>
+  <delay><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>252</LINE></delay>
+  <nextcol><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>304</LINE></nextcol>
+  <rowloop><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>279</LINE></rowloop>
+  <go_central><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>266</LINE></go_central>
+  <central><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>313</LINE></central>
+  <go_w1><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>268</LINE></go_w1>
+  <w1_local><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>359</LINE></w1_local>
+  <go_w2><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>270</LINE></go_w2>
+  <w2_local><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>377</LINE></w2_local>
+  <go_w3><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>272</LINE></go_w3>
+  <w3_local><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>395</LINE></w3_local>
+  <go_w4><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>274</LINE></go_w4>
+  <w4_local><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>413</LINE></w4_local>
+  <useless_pressed><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>276</LINE></useless_pressed>
+  <keepscan><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>298</LINE></keepscan>
+  <central_dark><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>320</LINE></central_dark>
+  <central_clear><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>339</LINE></central_clear>
+  <w1_dark><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>370</LINE></w1_dark>
+  <w1_return><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>367</LINE></w1_return>
+  <w2_dark><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>388</LINE></w2_dark>
+  <w2_return><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>385</LINE></w2_return>
+  <w3_dark><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>406</LINE></w3_dark>
+  <w3_return><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>403</LINE></w3_return>
+  <w4_dark><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>424</LINE></w4_dark>
+  <w4_return><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>421</LINE></w4_return>
+  <lcd_wait_loop><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>494</LINE></lcd_wait_loop>
+  <delayloop_1ms><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>519</LINE></delayloop_1ms>
+  <sleep_25ms><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>533</LINE></sleep_25ms>
+  <sleep_100ms><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project_try\project_try\project_try\main.asm</FILE><LINE>542</LINE></sleep_100ms>
+ </LABELS>
+</ASSEMBLER_INFO>

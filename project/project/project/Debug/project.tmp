@@ -1,0 +1,64 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\Debug\project.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>project.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>project.map</FILE>
+  <FILE>project.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>83</LINE></RESET>
+  <EXT_INT0><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>171</LINE></EXT_INT0>
+  <lcd_command><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>492</LINE></lcd_command>
+  <lcd_wait><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>522</LINE></lcd_wait>
+  <sleep_5ms><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>560</LINE></sleep_5ms>
+  <sleep_1ms><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>548</LINE></sleep_1ms>
+  <lcd_data><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>505</LINE></lcd_data>
+  <main><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>207</LINE></main>
+  <sleep_400ms><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>584</LINE></sleep_400ms>
+  <colloop><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>212</LINE></colloop>
+  <delay><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>218</LINE></delay>
+  <nextcol><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>240</LINE></nextcol>
+  <rowloop><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>230</LINE></rowloop>
+  <convert><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>253</LINE></convert>
+  <no_used_pressed><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>250</LINE></no_used_pressed>
+  <central><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>276</LINE></central>
+  <w1_jmp><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>267</LINE></w1_jmp>
+  <w2_jmp><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>269</LINE></w2_jmp>
+  <w3_jmp><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>271</LINE></w3_jmp>
+  <w4_jmp><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>273</LINE></w4_jmp>
+  <w1_local><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>321</LINE></w1_local>
+  <w2_local><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>358</LINE></w2_local>
+  <w3_local><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>395</LINE></w3_local>
+  <w4_local><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>432</LINE></w4_local>
+  <central_dark><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>282</LINE></central_dark>
+  <central_clear><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>301</LINE></central_clear>
+  <w1_dark><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>342</LINE></w1_dark>
+  <w1_mainjmp><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>339</LINE></w1_mainjmp>
+  <w2_dark><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>379</LINE></w2_dark>
+  <w2_mainjmp><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>376</LINE></w2_mainjmp>
+  <w3_dark><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>416</LINE></w3_dark>
+  <w3_mainjmp><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>413</LINE></w3_mainjmp>
+  <w4_dark><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>453</LINE></w4_dark>
+  <w4_mainjmp><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>450</LINE></w4_mainjmp>
+  <lcd_wait_loop><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>528</LINE></lcd_wait_loop>
+  <delayloop_1ms><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>553</LINE></delayloop_1ms>
+  <sleep_25ms><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>567</LINE></sleep_25ms>
+  <sleep_100ms><FILE>D:\Australia\UNSW\Microprocessors and Interfacing\project\project\project\main.asm</FILE><LINE>576</LINE></sleep_100ms>
+ </LABELS>
+</ASSEMBLER_INFO>
